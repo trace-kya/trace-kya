@@ -1,4 +1,4 @@
-### Hi, I'm Jessica (`tracekya`) 👋
+### Hi, I'm Jessica (`trace-kya`) 👋
 
 I work in **Technical Support & Trust Operations**, focusing on identity verification, fraud prevention and risk workflows and I'm building public research & evaluation tools around **AI Safety, Adversarial Testing and Agentic Governance (KYA)**.
 
